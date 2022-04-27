@@ -1,3 +1,3 @@
 # Warehouse_diagram
 
-IML diagram
+UML diagram
